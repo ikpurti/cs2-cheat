@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>Cs2Cheat.Core</RootNamespace>
+    <AssemblyName>Cs2Cheat.Core</AssemblyName>
+  </PropertyGroup>
+</Project>
