@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/cs2-cheat.Core/cs2-cheat.Core.csproj" />
+    <Project Path="src/cs2-cheat.Loader/cs2-cheat.Loader.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/cs2-cheat.Core.Tests/cs2-cheat.Core.Tests.csproj" />
+  </Folder>
+</Solution>
